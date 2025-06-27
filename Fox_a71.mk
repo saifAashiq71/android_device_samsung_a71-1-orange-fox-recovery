@@ -18,6 +18,10 @@ This file is part of the OrangeFox Recovery Project
 #
 
 # OrangeFox settings
+OF_HIDE_NOTCH := 1
+OF_USE_GREEN_LED := 0
+OF_FLASHLIGHT_ENABLE := 1
+OF_ALLOW_DISABLE_NAVBAR := 0
 
 # OrangeFox GUI settings
 OF_SCREEN_H := 2400
